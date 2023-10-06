@@ -3,6 +3,7 @@ Tic Tac Toe is a classic game where two players take turns placing X and O marks
 
 This project is a version of the game written using React.js. It is a single player game, with the player against the himself right now. The player will respond to each player's move and attempt to win the game.
 
+![plot](images\gameExample.png)
 ## Getting Started
 To get started, simply clone the repository and run ```npm install``` to install the necessary dependencies. Then, you can run ```npm start``` to launch the game.
 
